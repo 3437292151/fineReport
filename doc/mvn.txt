@@ -1,0 +1,13 @@
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-accumulator-10.0.jar -DgroupId=com.fr -DartifactId=fine-accumulator -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-activator-10.0.jar -DgroupId=com.fr -DartifactId=fine-activator -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-core-10.0.jar -DgroupId=com.fr -DartifactId=fine-core -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-datasource-10.0.jar -DgroupId=com.fr -DartifactId=fine-datasource -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-decision-10.0.jar -DgroupId=com.fr -DartifactId=fine-decision -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-decision-report-10.0.jar -DgroupId=com.fr -DartifactId=fine-decision-report -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-report-engine-10.0.jar -DgroupId=com.fr -DartifactId=fine-report-engine -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-schedule-10.0.jar -DgroupId=com.fr -DartifactId=fine-schedule -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-schedule-report-10.0.jar -DgroupId=com.fr -DartifactId=fine-schedule-report -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-swift-log-adaptor-10.0.jar -DgroupId=com.fr -DartifactId=fine-swift-log-adaptor -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-third-10.0.jar -DgroupId=com.fr -DartifactId=fine-third -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-webui-10.0.jar -DgroupId=com.fr -DartifactId=fine-webui -Dversion=10.0 -Dpackaging=jar
+mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\tools.jar -DgroupId=com.fr -DartifactId=tools -Dversion=1.8 -Dpackaging=jar

@@ -11,3 +11,4 @@ mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-swift-log-adapt
 mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-third-10.0.jar -DgroupId=com.fr -DartifactId=fine-third -Dversion=10.0 -Dpackaging=jar
 mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\fine-webui-10.0.jar -DgroupId=com.fr -DartifactId=fine-webui -Dversion=10.0 -Dpackaging=jar
 mvn install:install-file -Dfile=G:\fine\webroot\WEB-INF\lib\tools.jar -DgroupId=com.fr -DartifactId=tools -Dversion=1.8 -Dpackaging=jar
+mvn install:install-file -Dfile=E:\Download\webroot\WEB-INF\lib\netty-all-4.1.17.Final.jar -DgroupId=io.netty -DartifactId=netty-all -Dversion=4.1.17.Final -Dpackaging=jar
